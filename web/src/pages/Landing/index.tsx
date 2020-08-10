@@ -15,7 +15,7 @@ export default function Landing() {
         <div id="page-landing">
             <div id="page-landing-content" className="container">
                 <div className="logo-container">
-                    <img src={logoImg} alt="Logo_Proffy"/>
+                    <img src={logoImg} alt="Logo Proffy"/>
                     <h2>Sua Plataforma de ensino online</h2>
                 </div>
 
